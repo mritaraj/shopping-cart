@@ -1,0 +1,47 @@
+.valign{
+    vertical-align: baseline;
+}
+
+.catHead{
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+}
+
+.flexcol {
+    flex-direction: column;
+  }
+.setZTop{
+    z-index: 10;
+}
+.marginlow{
+    margin-top: 25px;
+}
+
+.link {
+    color:#423842;
+}
+.link2 {
+    margin-left: 47%;
+}
+
+.banner{
+    margin-top: 120px;
+}
+
+.carousel {
+    position: relative;
+} 
+.banner {
+    margin-top: 120px;
+}  
+.shadow-sm {
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+}
+.link {
+    color:#423842;
+}
+.link2 {
+    margin-left: 47%;
+}
